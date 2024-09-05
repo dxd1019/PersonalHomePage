@@ -35,7 +35,7 @@ The website design and concept draw inspiration from *Zeros*, the album by **Dec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dxd1019/PersonalHomePage.git
+   git clone https://github.com/dxd1019/ZerosInspiredWebsite.git
    ```
 2. Open `index.html` in your browser to view the homepage.
 
